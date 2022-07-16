@@ -1,0 +1,4 @@
+C:\Users\Josh\Desktop\Programming\Sandbox\C++\WindowOpenGL\BasicWindow\x64\Debug\BasicWindow.vcxproj.MdMergeInputs.cache
+C:\Users\Josh\Desktop\Programming\Sandbox\C++\WindowOpenGL\BasicWindow\x64\Debug\BasicWindow.vcxproj.cppwinrt_plat.cache
+C:\Users\Josh\Desktop\Programming\Sandbox\C++\WindowOpenGL\BasicWindow\x64\Debug\BasicWindow.vcxproj.cppwinrt_comp.cache
+C:\Users\Josh\Desktop\Programming\Sandbox\C++\WindowOpenGL\BasicWindow\x64\Debug\BasicWindow.exe

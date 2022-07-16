@@ -1,2 +1,2 @@
-﻿  main.cpp
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   OpenWindow.vcxproj -> C:\Users\Josh\Desktop\Programming\Sandbox\C++\GLFW\OpenWindow\x64\Debug\OpenWindow.exe
