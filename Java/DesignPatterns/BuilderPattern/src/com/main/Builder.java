@@ -20,7 +20,17 @@ public class Builder {
 		Character dana = ahm_engineer.getCharacter();
 		Character ladyRosa = fdw_engineer.getCharacter();
 		
-		System.out.println("Character constructed: " + dana);
-		System.out.println("Character constructed: " + ladyRosa);
+		System.out.println(dana);
+		System.out.println(ladyRosa);
+		
+		// Make another Dwarf foe
+		fdw.reset();
+		fdw_engineer.constructCharacter("Malone", "It is such a silvester");
+		
+		Character malone = fdw_engineer.getCharacter();
+		
+		System.out.println(malone);
+		
+		
 	}
 }

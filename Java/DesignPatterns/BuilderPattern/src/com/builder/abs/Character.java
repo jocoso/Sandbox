@@ -7,20 +7,6 @@ public class Character implements CharacterPlan {
 	private String cl;
 	private String race;
 
-	public Character() {
-		this.reset();
-	}
-	
-	@Override
-	public void reset() {
-		name = "";
-		description = "";
-		alliance = "";
-		cl = "";
-		race = "";
-		
-	}
-
 	@Override
 	public void setBase(String name, String description) {
 		this.name = name;

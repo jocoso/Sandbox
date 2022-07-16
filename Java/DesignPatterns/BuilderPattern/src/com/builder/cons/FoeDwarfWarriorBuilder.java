@@ -36,4 +36,9 @@ public class FoeDwarfWarriorBuilder implements CharacterBuilder {
 		return this.character;
 	}
 
+	@Override
+	public void reset() {
+		this.character = new Character();
+	}
+
 }
